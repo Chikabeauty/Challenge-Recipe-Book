@@ -1,0 +1,1 @@
+I created a web page with your favorite recipes! The recipe book have a table of contents linking to each recipe using internal links. Each recipe have a table for the ingredients, a list of details, a list and paragraphs of the steps required. I Used CSS to style the recipe book, using a mix of the simple selectors and colors that I have learned.
